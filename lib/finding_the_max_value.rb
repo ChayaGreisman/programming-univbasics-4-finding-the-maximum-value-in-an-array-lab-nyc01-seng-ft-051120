@@ -9,3 +9,8 @@ def find_max_value(array)
   end
   max_value
 end
+
+
+def find_max_value(array)
+  array.max
+end
